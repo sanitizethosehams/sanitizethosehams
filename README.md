@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Gitstats](https://github-readme-stats.vercel.app/api?username=sanitizethosehams)
+<center>![Gitstats](https://github-readme-stats.vercel.app/api?username=sanitizethosehams)</center>
