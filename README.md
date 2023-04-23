@@ -1,6 +1,6 @@
 ![Gitstats](https://github-readme-stats.vercel.app/api?username=sanitizethosehams)
 
-I code stuff i think
+e
 
 ## Links ✨
 
